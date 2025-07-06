@@ -26,9 +26,21 @@ An interactive desktop app built with **PyQt5** and **Matplotlib** that simulate
   - Transparent matplotlib overlay on custom background image
 
 
-## 🖼️ Demo Video
+## 🎬 Demo Video
 
-???????????VIDEO???????????
+This video demonstrates:
+- Using controls: **Play/Pause**, **Restart**, and **Display Speed** slider
+- Changing **firing angle** while keeping the same speed:
+  - 45° (optimal range)
+  - < 45° (lower, faster arc)
+  - \> 45° (higher, shorter arc)
+  - 90° (maximum height, zero distance)
+ 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=3fM7YInp_94&autoplay=1" target="_blank">
+    <img src="https://img.youtube.com/vi/3fM7YInp_94/0.jpg" alt="Demo Video Thumbnail" width="640">
+  </a>
+</div>
 
 
 ## ⚙️ Tech Stack
